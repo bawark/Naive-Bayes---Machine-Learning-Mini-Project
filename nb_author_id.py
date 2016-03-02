@@ -3,7 +3,7 @@
 """ 
     This is the code to accompany the Lesson 1 (Naive Bayes) mini-project. 
 
-    Use a Naive Bayes Classifier to identify emails by their authors
+    Use a Naive Bayes Classifier to identify emails authors from the Enron email dataset
     
     authors and labels:
     Sara has label 0
